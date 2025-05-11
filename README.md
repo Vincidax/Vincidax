@@ -51,8 +51,8 @@ Here are some highlights of what I've been working on:
 
 ## 🤝 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- 💬 [Twitter/X](https://x.com/yourhandle)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vincentdushime/))
+- 💬 [Twitter/X]((https://x.com/vinci_dax))
 - 📧 Reach me at: your.email@example.com
 
 ---
