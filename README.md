@@ -34,25 +34,16 @@
 
 Here are some highlights of what I've been working on:
 
-- 🔭 **[TV Show Tracker](https://github.com/yourusername/tv-show-tracker)** – A responsive app to track TV shows using the TVmaze API  
-- 🚴 **[Bike Elevation Finder](https://github.com/yourusername/bike-elevation-finder)** – Helps cyclists find routes with minimal elevation gain in San Francisco  
+- 🔭 **[TV Show Tracker](https://github.com/yourusername/tv-show-tracker)** – A responsive app to track TV shows using the TVmaze API
 - 🌱 **[Weather by IP](https://github.com/yourusername/weather_ip)** – A serverless project that fetches user location and weather data
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark"/>
-</p>
 
 ---
 
 ## 🤝 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vincentdushime/))
-- 💬 [Twitter/X]((https://x.com/vinci_dax))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vincentdushime/)
+- 💬 [Twitter/X](https://x.com/vinci_dax)
 - 📧 Reach me at: your.email@example.com
 
 ---
