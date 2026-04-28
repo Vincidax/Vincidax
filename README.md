@@ -35,7 +35,7 @@
 Here are some highlights of what I've been working on:
 
 
-- 🌱 **[Weather Dashboard]((https://github.com/Vincidax/Weather_dashboard))** – A serverless project that uses OpenWeatherMap API to show the current weather info for a given city
+- 🌱 **[Weather Dashboard](https://github.com/Vincidax/Weather_dashboard)** – A serverless project that uses OpenWeatherMap API to show the current weather info for a given city
 - 🔭 **[Client Website](https://github.com/Vincidax/BW_CONNECT)** – A responsive web app to show a client's services and info
 ---
 
