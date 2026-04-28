@@ -34,18 +34,16 @@
 
 Here are some highlights of what I've been working on:
 
-- 🔭 **[TV Show Tracker](https://github.com/yourusername/tv-show-tracker)** – A responsive app to track TV shows using the TVmaze API
-- 🌱 **[Weather by IP](https://github.com/yourusername/weather_ip)** – A serverless project that fetches user location and weather data
 
-
+- 🌱 **[Weather Dashboard]((https://github.com/Vincidax/Weather_dashboard))** – A serverless project that uses OpenWeatherMap API to show the current weather info for a given city
+- 🔭 **[Client Website](https://github.com/Vincidax/BW_CONNECT)** – A responsive web app to show a client's services and info
 ---
 
 ## 🤝 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vincentdushime/)
 - 💬 [Twitter/X](https://x.com/vinci_dax)
-- 📧 Reach me at: your.email@example.com
-
+- 📧 Reach me at: vincentdx18@gmail.com
 ---
 
 📌 *“Code is not just syntax—it’s the bridge between imagination and impact.”*
