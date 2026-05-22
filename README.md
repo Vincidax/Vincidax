@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Vincent Dushime</h1>
+<h1 align="center">Vincent Dushime</h1>
 
 <p align="center">
   🚀 A passionate Software Engineer | Lifelong Learner | Tech Problem-Solver
