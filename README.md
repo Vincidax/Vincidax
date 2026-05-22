@@ -8,7 +8,7 @@
 
 ## 💡 About Me
 
-👨‍💻 I’m a dedicated ALX ProDev learner on a mission to transform ideas into impactful digital solutions.  
+👨‍💻 I’m a dedicated software engineer on a mission to transform ideas into impactful digital solutions.  
 🛠️ What inspired me to start this journey: **problem solving using technology**  
 💡 I’m passionate about **creating clean, efficient code that solves real-world problems and improves people's lives**  
 🎯 My mission is to **build scalable tech that contributes to social good and empowers communities**  
